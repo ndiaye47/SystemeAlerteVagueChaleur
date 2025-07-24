@@ -84,6 +84,11 @@ Interface client disponible sur http://localhost:5174
 - **Email** : babacar@chaleur.sn
 - **Mot de passe** : admin123
 
+ou bien
+
+-**Email**: admin@heatwave.sn
+-**Mot de passe**: admin123
+
 ### Client
 - **Email** : amar.mouhamed@chaleur.sn
 - **Mot de passe** : client123
