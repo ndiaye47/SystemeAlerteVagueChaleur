@@ -228,5 +228,4 @@ Le projet MBOYY MII Alert est une plateforme robuste et fonctionnelle, développ
 
 ---
 
-**Date de Génération : 24 juillet 2025**
 
