@@ -268,5 +268,5 @@ MBOYY MII Alert est une solution complète et moderne pour la prévention des ri
 
 ---
 
-**Développé avec ❤️ pour la santé publique au Sénégal**
+**Développé avec ❤️ pour un projet académique; mais aussi pour la CSE (Centre de Suivi Ecologique)**
 
