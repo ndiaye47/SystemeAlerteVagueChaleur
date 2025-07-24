@@ -81,11 +81,11 @@ Interface client disponible sur http://localhost:5174
 ## 👥 Comptes de Test
 
 ### Administrateur
-- **Email** : admin@heatwave.sn
+- **Email** : babacar@chaleur.sn
 - **Mot de passe** : admin123
 
 ### Client
-- **Email** : client@heatwave.sn
+- **Email** : amar.mouhamed@chaleur.sn
 - **Mot de passe** : client123
 
 ## 🌟 Fonctionnalités Principales
