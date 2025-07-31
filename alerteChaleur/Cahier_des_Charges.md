@@ -165,5 +165,5 @@ La plateforme gérera deux rôles principaux :
 
 ---
 
-**Date de Génération : 24 juillet 2025**
+
 
